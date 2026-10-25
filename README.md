@@ -3,7 +3,7 @@ My first successful public website penetration test. Full admin access, real imp
 
 <div align="center">
 
-<img src="assets/banner.png" width="820" alt="Hall Pass to Everything — one weak password, total access">
+<img src="P%20Screenshots/banner.png" width="820" alt="Hall Pass to Everything — one weak password, total access">
 
 <br><br>
 
