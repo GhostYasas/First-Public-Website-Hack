@@ -189,9 +189,7 @@ The organization responded quickly and professionally. **All critical and high s
 
 <div align="center">
 
-### 👤 Security Researcher
-
-**Yasas Dulanjan**
+**Yasasvee Dulanjan**
 *September 2026*
 
 <br>
