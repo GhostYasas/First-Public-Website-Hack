@@ -1,12 +1,9 @@
-# First-public-website-hack
-My first successful public website penetration test. Full admin access, real impact, responsible disclosure.
+<b> My first successful public website penetration test. Full admin access, real impact, responsible disclosure.
 
 <div align="center">
 
-<img src="P%20Screenshots/banner.png" width="820" alt="Hall Pass to Everything — one weak password, total access">
-
+<img src="P%20Screenshots/banner.png" width="1120" alt="Hall Pass to Everything — one weak password, total access">
 <br><br>
-
 **The most dangerous vulnerability isn't always a zero-day.**
 **Sometimes it's a password nobody ever changed.** 🔓
 
@@ -113,13 +110,13 @@ Low       ████                     4
 
 ```mermaid
 flowchart LR
-    A[🕵️ Black-box start<br/>no credentials] --> B[🧪 Recon &<br/>fingerprinting]
-    B --> C[🔓 Weak default<br/>credential found]
-    C --> D[👑 Full admin<br/>access proven]
-    D --> E[🗂️ 10 more issues<br/>mapped]
-    E --> F[📝 Evidence +<br/>SHA-256 hashes]
-    F --> G[📬 Private<br/>disclosure]
-    G --> H[✅ Critical & High<br/>fixed]
+    A["🕵️ Black-box start<br/>no credentials"] --> B["🧪 Recon &amp; fingerprinting"]
+    B --> C["🔑 Weak default<br/>credential found"]
+    C --> D["👑 Full admin<br/>access proven"]
+    D --> E["🗂️ 10 more issues<br/>mapped"]
+    E --> F["📝 Evidence +<br/>SHA-256 hashes"]
+    F --> G["📬 Private<br/>disclosure"]
+    G --> H["✅ Critical & High<br/>fixed"]
 ```
 
 | Phase | What happened |
