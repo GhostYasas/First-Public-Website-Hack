@@ -26,23 +26,23 @@ What made this particularly serious was the nature of the data involved — pers
 
 ### Behind the Admin Panel
 
-![Dashboard Overview](admin1.png)
+![Dashboard Overview](P%20Screenshots/admin1.png)
 
-![Stream & Selection Metrics](admin2.png)
+![Stream & Selection Metrics](P%20Screenshots/admin2.png)
 
-![Application Listing](admin3.png)
+![Application Listing](P%20Screenshots/admin3.png)
 
-![Official Student Report](admin4.png)
+![Official Student Report](P%20Screenshots/admin4.png)
 
 ### Technical Evidence
 
-![Internal Infrastructure Leak](report1.png)
+![Internal Infrastructure Leak](P%20Screenshots/report1.png)
 
-![Open Redirect Proof](report2.png)
+![Open Redirect Proof](P%20Screenshots/report2.png)
 
-![Module Enumeration](report3.png)
+![Module Enumeration](P%20Screenshots/report3.png)
 
-![Evidence Integrity Check](report4.png)
+![Evidence Integrity Check](P%20Screenshots/report4.png)
 
 ---
 
